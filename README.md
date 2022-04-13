@@ -13,9 +13,6 @@ Grazioso Salvare international rescue-animal training company. As part of its wo
 
 - Creates charts to display data in response to inputs from other controls, and demonstrates successful executions by providing screenshots with a unique identifier.
 
-## Web Application Dashboard C.R.U.D. in Python
-The motivation behind this project is for me to use and demonstrate a PyMongo driver to create CRUD functional access to document collection.
-
 ## Getting Started
 The AAC database has the animals collection. There is admin and user authentication to the database with different privileges. I created Create and Read functions for the database that allows me to insert data into the collection and then uses the find function.
 
