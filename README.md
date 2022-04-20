@@ -2,7 +2,7 @@
 ## About
 Grazioso Salvare international rescue-animal training company. As part of its work, Grazioso Salvare identifies dogs that are good candidates for search-and-rescue training. When trained, these dogs are able to find and help to rescue humans or other animals, often in life-threatening conditions. To help identify dogs for training, Grazioso Salvare has reached an agreement with a non-profit agency that operates five animal shelters in the region around Austin, Texas. This non-profit agency will provide Grazioso Salvare with data from their shelters.
 
-<img src="https://learn.snhu.edu/content/enforced/1009040-CS-340-T4528-OL-TRAD-UG.22EW4/course_documents/Grazioso%20Salvare%20Logo.png?_&d2lSessionVal=Veq0HlQA4gulNROqITEpz4a4D&ou=1009040" alt="Grazioso-logo" height="500" width="500"/>
+<img src="" alt="Grazioso-logo" height="500" width="500"/>
 
 ## Motivation
 - Develops database queries that match the required filter functionality and utilize the previous CRUD Python module for direct MongoDB access.
@@ -25,5 +25,13 @@ Installing MongoDB, installing/importing the (csv) data, setting up user authent
 ## Screenshots
 
 
+
+
 ## Contact
-Tony Chiesa
+- How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
+
+
+- How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
+
+
+- What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
