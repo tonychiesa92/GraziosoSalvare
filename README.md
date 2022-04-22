@@ -1,8 +1,8 @@
 # GraziosoSalvare
+<img src="./Grazioso Salvare Logo.png" alt="Grazioso-logo" height="400" width="400"/>
+
 ## About
 Grazioso Salvare international rescue-animal training company. As part of its work, Grazioso Salvare identifies dogs that are good candidates for search-and-rescue training. When trained, these dogs are able to find and help to rescue humans or other animals, often in life-threatening conditions. To help identify dogs for training, Grazioso Salvare has reached an agreement with a non-profit agency that operates five animal shelters in the region around Austin, Texas. This non-profit agency will provide Grazioso Salvare with data from their shelters.
-
-<img src="./Grazioso Salvare Logo.png" alt="Grazioso-logo" height="500" width="500"/>
 
 ## Motivation
 - Develops database queries that match the required filter functionality and utilize the previous CRUD Python module for direct MongoDB access.
