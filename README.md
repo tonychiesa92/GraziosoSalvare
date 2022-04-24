@@ -23,8 +23,8 @@ MongoDB, Python 3+/Jupyter, and PyMongo driver
 Installing MongoDB, installing/importing the (csv) data, setting up user authentication, implementing CRUD operations as a Python module, and building an app that uses the CRUD module are all stages in duplicating the project.
 
 ## Screenshots
-
-
+<img src="./dashboard.png" alt="Dashboard" height="300" width="700"/>
+<img src="./piec-and-map.png" alt="Pie Chart and Map" height="300" width="700"/>
 
 
 ## Applying Skills Learned To Future Development Projects
